@@ -4,7 +4,7 @@ An artificial intelligence that solves the sliding block puzzle using _A*-search
 
 In this project, _Manhattan distance_ and _direct Euclidean distance_ heuristics are used. Those heuristic can be set while giving input to the program.
 
-###Here is the example game play via graphical interface:
+### Here is the example game play via graphical interface:
 ![alt text][example-game-play]
 
 [example-game-play]: https://github.com/swifthfg/puzzlesolver/blob/master/resources/example-game-play.png
