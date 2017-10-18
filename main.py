@@ -217,7 +217,6 @@ class node:
                 elif self.parent == None:
                     self.children.append(node(pzl, self, self.final, self.rectangular_block_numbers, self.is_diagonal))
 
-
 def a_star(start_node):
     open_list = PriorityQueue()
     closed_list = []
